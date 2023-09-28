@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ###
-
+<h1> Hi, I'm Ibrahim Mohamed</h1>
 <p align="left">I am a full-stack software engineer bootcamp graduate. <br><br> I developed a deep passion for programming while working in IT support</p>
 
 ###

@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">📚 I'm currently learning ...<br>- React<br>-TypeScript<br><br>🎲 Fun fact: <br>- I love playing and watching sports</p>
+<p align="left">📚 I'm currently learning ...<br>- React<br>-TypeScript<br><br>🏀 Fun fact: <br>- I love playing and watching sports</p>
 
 ###
 
